@@ -57,8 +57,8 @@ Global totals as reported to the WHO (the source behind the Our World in Data fi
 1.	About 779 million confirmed cases and about 7.1 million reported deaths worldwide.
 2.	That works out to a reported fatality rate of roughly 0.91%. Confirmed counts are lower than the true toll because of limited testing and differences in how countries report.
 3. In this dataset, about 2 billion vaccinations are recorded and about 954 million people are fully vaccinated. WHO-reported worldwide totals are higher, at about 13.7 billion doses.
-
 Country-level findings (cumulative, from Our World in Data):
+
 4.	The United States had the most confirmed cases (about 103.4 million) and the most deaths (1,238,678), followed by Brazil (704,045) and India (533,849) in deaths.
 5.	Peru had the highest death rate at 6,604 deaths per million, then Bulgaria (5,681) and North Macedonia (5,429). The world average is 894.
 6.	Nigeria recorded 267,237 cases and 3,155 deaths, or 14 deaths per million.
